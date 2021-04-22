@@ -37,3 +37,4 @@ if __name__ == '__main__':
     choice = input('what type of person do you want to creat?\n')
     person = PersonFactory.build_person(choice)
     person.person_method()
+    print(person.name)

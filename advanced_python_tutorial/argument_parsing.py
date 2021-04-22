@@ -1,3 +1,4 @@
+import sys
 def myfunction(*args,**kwargs):
     print(args[0])
     print(args[1])
@@ -7,5 +8,4 @@ def myfunction(*args,**kwargs):
     print(kwargs['KEYTWO'])
 
 myfunction('hey',True,19,'wow',KEYONE='TEST',KEYTWO=7)
-##
-    
+

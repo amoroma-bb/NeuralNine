@@ -1,4 +1,3 @@
-import sys
 import getopt
 filename = sys.argv[1]
 message = sys.argv[2]

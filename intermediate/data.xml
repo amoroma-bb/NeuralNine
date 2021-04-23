@@ -1,0 +1,8 @@
+<group>
+	<person id='1'>
+		<name>Mike Smith</name>
+		<age>34</age>
+		<weight>90</weight>
+		<height>175</height>
+	</person>
+</group>

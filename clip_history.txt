@@ -1,0 +1,22 @@
+
+.sleep(2
+a:
+        with open('clip_history.txt', 'a+') as f:
+            f.write(data + '\n')
+        old = data
+    time.sleep(2)
+
+rite(data + '\n')
+
+
+            f.write(data + '\n')
+
+        old = data
+
+    time.sleep(2)
+
+
+rite(data + '\n')
+
+
+2
